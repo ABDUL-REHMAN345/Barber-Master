@@ -32,13 +32,13 @@ To run **Barber** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/barber.git
+sudo git clone https://github.com/ABDUL-REHMAN345/Barber-Master.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/barber.git
+git clone https://github.com/ABDUL-REHMAN345/Barber-Master.git
 ```
 
 ### Contact
